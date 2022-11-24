@@ -22,7 +22,7 @@ if (arrayLength > 0)
         if (array[i].Length <= 3)
         {
             arrayNew[indexNew] = array[i];
-            Console.WriteLine($"Это {i + 1} элемент со значением {array[i]}");
+            Console.WriteLine($"Это {i + 1} элемент, со значением: {array[i]}");
             indexNew++;
         }
 
