@@ -1,0 +1,15 @@
+/Users/mihailkucaev/Desktop/Final Work One/bin/Debug/net6.0/Final Work One
+/Users/mihailkucaev/Desktop/Final Work One/bin/Debug/net6.0/Final Work One.deps.json
+/Users/mihailkucaev/Desktop/Final Work One/bin/Debug/net6.0/Final Work One.runtimeconfig.json
+/Users/mihailkucaev/Desktop/Final Work One/bin/Debug/net6.0/Final Work One.dll
+/Users/mihailkucaev/Desktop/Final Work One/bin/Debug/net6.0/Final Work One.pdb
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.csproj.AssemblyReference.cache
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.AssemblyInfoInputs.cache
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.AssemblyInfo.cs
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.csproj.CoreCompileInputs.cache
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.dll
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/refint/Final Work One.dll
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.pdb
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/Final Work One.genruntimeconfig.cache
+/Users/mihailkucaev/Desktop/Final Work One/obj/Debug/net6.0/ref/Final Work One.dll
